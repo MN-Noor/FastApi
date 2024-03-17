@@ -1,3 +1,4 @@
 venv
 __pycache__
-
+sqlmodel/.env
+sqlmodel/venv
